@@ -16,16 +16,19 @@ Algumas imagens demonstrativas do website
 ## Layout
 
 ![App Screenshot](https://live.staticflickr.com/65535/52052036918_ae7a0eecc8_h.jpg)
+
 **tela principal*
 
 ## menu
 
 ![App Screenshot](https://live.staticflickr.com/65535/52052520470_649a5238f9.jpg)
+
 **o menu muda de cor ao passar o cursor por cima*
 
 ## Parceiros
 
 ![App Screenshot](https://live.staticflickr.com/65535/52052069388_7630d172b0_z.jpg)
+
 **as bordas mudam de cor ao passar o cursor por cima*
 ## Stack utilizada
 
