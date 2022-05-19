@@ -7,12 +7,12 @@ body {
 @font-face {
     font-family: 'LEMON MILK';
     src: url(/font/LEMONMILK-Light.eot);
+    src: url(/font/LEMONMILK-Light.otf) format('opentype');
     src: url(/font/LEMONMILK-Light.eot?#iefix) format('embedded-opentype'),
         url(/font/LEMONMILK-Light.woff2) format('woff2'),
         url(/font/LEMONMILK-Light.woff) format('woff'),
         url(/font/LEMONMILK-Light.ttf) format('truetype'),
-        url(/font/LEMONMILK-Light.svg#LEMONMILK-Light) format('svg'),
-        url(/font/LEMONMILK-Light.otf) format('opentype');
+        url(/font/LEMONMILK-Light.svg#LEMONMILK-Light) format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -31,7 +31,6 @@ body {
 .margin {
     padding-top: 20px;
     padding-bottom: 20px;
-    font-family: 'LEMON MILK';
 }
 
 .sobre {
