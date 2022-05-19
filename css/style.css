@@ -1,23 +1,13 @@
-body {
-    background-color: black;
-    font-family: 'LEMON MILK';
-
-}
-
 @font-face {
-    font-family: 'LEMON MILK';
-    src: url(/font/LEMONMILK-Light.eot);
-    src: url(/font/LEMONMILK-Light.otf) format('opentype');
-    src: url(/font/LEMONMILK-Light.eot?#iefix) format('embedded-opentype'),
-        url(/font/LEMONMILK-Light.woff2) format('woff2'),
-        url(/font/LEMONMILK-Light.woff) format('woff'),
-        url(/font/LEMONMILK-Light.ttf) format('truetype'),
-        url(/font/LEMONMILK-Light.svg#LEMONMILK-Light) format('svg');
+    font-family: 'lemon';
+    src: url('/fonts/LEMONMILK-Light.otf') format('opentype');
     font-weight: 300;
     font-style: normal;
-    font-display: swap;
 }
-
+body {
+    background-color: black;
+    font-family: 'lemon', Times, serif;
+}
 .logo {
     width: 70px;
 }
@@ -26,11 +16,13 @@ body {
     background-color: #c81540;
     border-radius: 1%;
     max-width: 900px;
+
 }
 
 .margin {
     padding-top: 20px;
     padding-bottom: 20px;
+    font-family: 'lemon', Times, serif;
 }
 
 .sobre {
