@@ -2,6 +2,10 @@ body {
     background-color: black;
     font-family: 'Lemon Milk Light';
 
+} 
+@font-face {
+    font-family: 'Lemon Milk Light' ;
+    src: url(/font/LEMONMILK-Light.otf);
 }
 
 .logo {
