@@ -5,7 +5,7 @@ body {
 } 
 @font-face {
     font-family: 'Lemon Milk Light' ;
-    src: url(/font/LEMONMILK-Light.otf);
+    src: local('Lemon Milk Light') url(/font/LEMONMILK-Light.otf);
 }
 
 .logo {
