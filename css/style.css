@@ -11,7 +11,8 @@ body {
         url(/font/LEMONMILK-Light.woff2) format('woff2'),
         url(/font/LEMONMILK-Light.woff) format('woff'),
         url(/font/LEMONMILK-Light.ttf) format('truetype'),
-        url(/font/LEMONMILK-Light.svg#LEMONMILK-Light) format('svg');
+        url(/font/LEMONMILK-Light.svg#LEMONMILK-Light) format('svg'),
+        url(/font/LEMONMILK-Light.otf) format('opentype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
