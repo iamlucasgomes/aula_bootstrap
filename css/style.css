@@ -2,8 +2,12 @@ body {
     background-color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    margin:auto;
+    margin-left: auto;
+    margin-right: auto; 
 }
+.container-fluido {
+    width: auto;
+  }
 .titulos{
     font-weight: 900;
 }
