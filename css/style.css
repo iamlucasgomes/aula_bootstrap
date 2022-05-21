@@ -1,16 +1,3 @@
-@media screen and (max-width: 992px) {
-    body {
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-    @media screen and (max-width: 600px) {
-        body {
-            margin-left: auto;
-            margin-right: auto;
-        }
-    }
-
     body {
         background-color: black;
         font-family: 'Montserrat', sans-serif;
