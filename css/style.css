@@ -5,6 +5,7 @@ body {
 }
 .container-fluido {
     width: auto;
+    margin: auto;
   }
 .titulos{
     font-weight: 900;
