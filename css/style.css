@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
+    margin:auto;
 }
 .titulos{
     font-weight: 900;
