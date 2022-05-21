@@ -1,6 +1,6 @@
 var mybutton = document.getElementById("myBtn");
 
-// When the user scrolls down 20px from the top of the document, show the button
+// Quando o usuário rolar para baixo 20px da parte superior do documento, mostre o botão
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -11,8 +11,8 @@ function scrollFunction() {
   }
 }
 
-// When the user clicks on the button, scroll to the top of the document
+// Quando o usuário clicar no botão, role até o topo do documento
 function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+  document.body.scrollTop = 0; // Para Safari
+  document.documentElement.scrollTop = 0; // Para Chrome, Firefox, IE e Opera
 }
