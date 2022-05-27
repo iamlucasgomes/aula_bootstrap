@@ -61,6 +61,8 @@
 
     .fotos {
         border: 5px solid white;
+        width: "300"; 
+        height: "300";
     }
 
     .fotos:hover {
